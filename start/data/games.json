@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "League of Legends: Wild Rift",
+    "developer": "Riot Games"
+  },
+  {
+    "id": 2,
+    "name": "Mobile Legends: Bang Bang",
+    "developer": "Moonton"
+  },
+  {
+    "id": 3,
+    "name": "Arena Of Valor",
+    "developer": "Tencent Games"
+  },
+  {
+    "id": 4,
+    "name": "DOTA 2",
+    "developer": "Valve Corporation"
+  },
+  {
+    "id": 5,
+    "name": "VALORANT",
+    "developer": "Riot Games"
+  },
+  {
+    "id": 6,
+    "name": "CS:GO",
+    "developer": "Valve Corporation"
+  }
+]
