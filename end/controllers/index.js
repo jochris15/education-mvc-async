@@ -1,7 +1,6 @@
 const Model = require("../models")
 const View = require("../views")
 
-
 class Controller {
     static help() {
         View.help()
@@ -19,7 +18,6 @@ class Controller {
     static async add(name, developer) {
         try {
             const data = await Model.add(name, developer)
-
             View.add(data)
         } catch (error) {
             View.error(error)

@@ -60,16 +60,16 @@ $ node game.js list
 
 Output : 
 ```
-┌─────────┬────┬────────────────────────────────┬─────────────────────┐
-│ (index) │ id │ name                           │ developer           │
-├─────────┼────┼────────────────────────────────┼─────────────────────┤
-│ 0       │ 1  │ 'League of Legends: Wild Rift' │ 'Riot Games'        │
-│ 1       │ 2  │ 'Mobile Legends: Bang Bang'    │ 'Moonton'           │
-│ 2       │ 3  │ 'Arena Of Valor'               │ 'Tencent Games'     │
-│ 3       │ 4  │ 'DOTA 2'                       │ 'Valve Corporation' │
-│ 4       │ 5  │ 'VALORANT'                     │ 'Riot Games'        │
-│ 5       │ 6  │ 'CS:GO'                        │ 'Valve Corporation' │
-└─────────┴────┴────────────────────────────────┴─────────────────────┘
+┌─────────┬─────────┬────────────────────────────────┬─────────────────────┐
+│ (index) │ Game ID │ Nama Game                      │ Nama Developer      │
+├─────────┼─────────┼────────────────────────────────┼─────────────────────┤
+│ 0       │ 1       │ 'League of Legends: Wild Rift' │ 'Riot Games'        │
+│ 1       │ 2       │ 'Mobile Legends: Bang Bang'    │ 'Moonton'           │
+│ 2       │ 3       │ 'Arena Of Valor'               │ 'Tencent Games'     │
+│ 3       │ 4       │ 'DOTA 2'                       │ 'Valve Corporation' │
+│ 4       │ 5       │ 'VALORANT'                     │ 'Riot Games'        │
+│ 5       │ 6       │ 'CS:GO'                        │ 'Valve Corporation' │
+└─────────┴─────────┴────────────────────────────────┴─────────────────────┘
 ```
 
 ### Command "add <game_name> <game_developer>"
